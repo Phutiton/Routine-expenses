@@ -1,0 +1,6 @@
+{
+  "name": "Group Expense Tracker",
+  "description": "ระบบบันทึกและจัดการค่าใช้จ่ายสำหรับกิจกรรมกลุ่มหรือกิจวัตรประจำวัน พร้อมเชื่อมต่อและบันทึกข้อมูลบน Google Sheets",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
